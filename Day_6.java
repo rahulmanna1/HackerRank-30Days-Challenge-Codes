@@ -1,6 +1,12 @@
 import java.io.*;
 import java.util.*;
 
+/*
+
+ *****************DAY 6: StringsAdvance*****************
+ 
+*/
+
 public class Day_6 {
 
     public static void main(String[] args) {
