@@ -18,7 +18,7 @@ public class Day_6 {
         {
            input= sc.next().toCharArray();
             StringBuilder oddString=new StringBuilder();
-            StringBuilder evenString=new StringBuilder();
+            StringBuilder evenString = new StringBuilder();
             for (int j=0;j< input.length;j++)
             {
                 if ((j&1)==0)
